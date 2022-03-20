@@ -1,0 +1,26 @@
+body{
+
+}
+
+*{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.banner img{
+ text-align: center;
+ width: 100%;
+display: flex;
+align-items: center;
+}
+
+.about{
+display: flex;
+align-items: center;
+margin: 10px;
+}
+
+.about img{
+    width: 100%;
+    height: auto;
+}
